@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Homework_EfCore
+build_property.RootNamespace = Homework_EfCore
+build_property.ProjectDir = D:\FKA\Homework_EfCore\Crico\Homework_EfCore\Homework_EfCore\Homework_EfCore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FKA\Homework_EfCore\Crico\Homework_EfCore\Homework_EfCore\Homework_EfCore
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/DeleteUsersPerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVVc2Vyc1BlckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/GetBooksWithAuthors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRCb29rc1dpdGhBdXRob3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/GetUsersInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRVc2Vyc0luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/GiveBookToUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaXZlQm9va1RvVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Home/ReturnBookFromUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXR1cm5Cb29rRnJvbVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FKA/Homework_EfCore/Crico/Homework_EfCore/Homework_EfCore/Homework_EfCore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tkw9px41a2
